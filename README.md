@@ -21,3 +21,12 @@ Given an integer array nums and an integer val, remove all occurrences of val in
 
 **Solution:**
 [code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/RemoveElement.js)
+
+## Problem 3: Remove duplicates
+
+**Description:**
+
+Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once.
+
+**Solution:**
+[code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/RemoveDuplicates.js)
