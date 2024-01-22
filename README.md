@@ -14,4 +14,4 @@ The length of nums1 is m + n, where the first m elements in nums1 represent the 
 and the last n elements should be ignored.
 
 **Solution:**
-[code Solution](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/mergeSortedArray.js)
+[code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/mergeSortedArray.js)
