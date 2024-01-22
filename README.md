@@ -6,8 +6,6 @@ This repository contains solutions to various JavaScript problems. Each problem 
 
 **Description:**
 
-Problem 1: Merge Sorted Arrays
-
 Merge the arrays nums1 and nums2 into a single sorted array.
 The length of nums1 is m + n, where the first m elements in nums1 represent the initial array to be merged,
 and the last n elements should be ignored.
