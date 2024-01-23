@@ -48,3 +48,12 @@ return  the element that appears more than ⌊n / 2⌋ times
 
 **Solution:**
 [code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/MajorityElement.js)
+
+## Problem 6: Rotate Array
+
+**Description:**
+
+Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+
+**Solution:**
+[code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/RotateArray.js)

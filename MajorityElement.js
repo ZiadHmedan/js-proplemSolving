@@ -8,4 +8,4 @@ var majorityElement = function(nums) {
 
     return nums[Math.ceil(nums.length / 2) - 1]
    
-};
+};  
