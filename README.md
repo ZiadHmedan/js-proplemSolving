@@ -62,7 +62,7 @@ Given an integer array nums, rotate the array to the right by k steps, where k i
 
 **Description:**
 
-ou are given an array prices where prices[i] is the price of a given stock on the ith day.
+you are given an array prices where prices[i] is the price of a given stock on the ith day.
 
 You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
@@ -70,3 +70,12 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 
 **Solution:**
 [code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/maxProfit.js)
+
+## Problem 8: Length of Last Word
+
+**Description:**
+
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+
+**Solution:**
+[code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/LengthofLastWord.js)
