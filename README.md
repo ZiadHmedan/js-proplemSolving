@@ -44,7 +44,7 @@ Given an integer array nums sorted in non-decreasing order, remove some duplicat
 
 **Description:**
 
-Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice.
+return  the element that appears more than ⌊n / 2⌋ times
 
 **Solution:**
 [code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/MajorityElement.js)
