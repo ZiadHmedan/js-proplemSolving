@@ -39,3 +39,12 @@ Given an integer array nums sorted in non-decreasing order, remove some duplicat
 
 **Solution:**
 [code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/RemoveDuplicatesII.js)
+
+## Problem 5: Majority Element
+
+**Description:**
+
+Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice.
+
+**Solution:**
+[code](https://github.com/ZiadHmedan/js-proplemSolving/blob/master/MajorityElement.js)
